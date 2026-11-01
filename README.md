@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi All,
+I have around 18 years of IT experience in software development as a technical contributor in multiple domains like GRC, Telecom, HR, manufacturing and technology used as Oracle, JavaScript, groovy, Unix shell script and Datawarehouse tool like informatica. Following are the summary of my works
+I have around 10 years of experience in GRC Domain having good functional and technical knowledge in this domain including Risk Management (operational Risk Management, Enterprise Risk Management), Internal Audit, Issue Management, GRC Libraries, Incident Management etc. The primarily used the MetricStream platform and product to develop the application for clients like Coca cola, Vodacom, Mazars, Bank of Luxemberg, State Street Corporation etc. The technolgy used for this developments are oracle, javascript, groovy, emery etc. Also used of AI technolgy using windsurf tool ( multiple workflows, JIRA analyzed, admin UI tool etc) for the day to day development and defect fixing.
