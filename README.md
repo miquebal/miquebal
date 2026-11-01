@@ -88,7 +88,7 @@ One of my key engagements involved a Singapore Telecom project, where I contribu
 - Coordinated technical activities and ensured successful project delivery.
 - Worked on enhancements and migration activities while maintaining delivery commitments.
 
-I also contributed to the HPE Dashboard project, which provided regional sales insights and reporting capabilities.
+I also contributed to the client HP, HPE Dashboard project, which provided regional sales insights and reporting capabilities.
 
 **Technologies:** Informatica, Unix Shell Scripting, Data Warehouse, and SQL.
 
